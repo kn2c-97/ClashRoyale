@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10805ff7-8c19-452c-bcd2-e9076a081707" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/ClashRoyale.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ClashRoyale.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ClashRoyale.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ClashRoyale.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/ir/ac/kntu/Main.class" beforeDir="false" />
+>>>>>>> 883f9c75f9c5b431172587b21b79ba4d3adde1cd
       <change beforePath="$PROJECT_DIR$/src/java/ir/ac/kntu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/ir/ac/kntu/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,12 +26,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/ir/ac/kntu/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
               <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
               <folding>
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/ir/ac/kntu/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+>>>>>>> 883f9c75f9c5b431172587b21b79ba4d3adde1cd
                 <element signature="e#474#475#0" expanded="true" />
                 <element signature="e#498#499#0" expanded="true" />
               </folding>
@@ -31,6 +49,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/java/ir/ac/kntu/Map.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,6 +79,9 @@
         <option value="Class" />
       </list>
     </option>
+=======
+    </leaf>
+>>>>>>> 883f9c75f9c5b431172587b21b79ba4d3adde1cd
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,9 +90,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/java/ir/ac/kntu/Main.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/java/ir/ac/kntu/DefaultMap.txt" />
         <option value="$PROJECT_DIR$/src/java/ir/ac/kntu/DefaultMap" />
         <option value="$PROJECT_DIR$/src/java/ir/ac/kntu/Map.java" />
+=======
+>>>>>>> 883f9c75f9c5b431172587b21b79ba4d3adde1cd
       </list>
     </option>
   </component>
@@ -124,9 +149,16 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+<<<<<<< HEAD
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+=======
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+>>>>>>> 883f9c75f9c5b431172587b21b79ba4d3adde1cd
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,7 +174,10 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+<<<<<<< HEAD
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+=======
+>>>>>>> 883f9c75f9c5b431172587b21b79ba4d3adde1cd
       <option name="MAIN_CLASS_NAME" value="ir.ac.kntu.Main" />
       <module name="ClashRoyale" />
       <extension name="coverage">
@@ -172,12 +207,20 @@
       <option name="presentableId" value="Default" />
       <updated>1561633383227</updated>
       <workItem from="1561633384959" duration="378000" />
+<<<<<<< HEAD
       <workItem from="1561634465762" duration="2539000" />
+=======
+      <workItem from="1561634479649" duration="1383000" />
+>>>>>>> 883f9c75f9c5b431172587b21b79ba4d3adde1cd
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="2917000" />
+=======
+    <option name="totallyTimeSpent" value="1761000" />
+>>>>>>> 883f9c75f9c5b431172587b21b79ba4d3adde1cd
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -191,10 +234,18 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+=======
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Messages" weight="0.32998884" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32998884" />
+>>>>>>> 883f9c75f9c5b431172587b21b79ba4d3adde1cd
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -219,6 +270,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/java/ir/ac/kntu/DefaultMap.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -231,12 +283,27 @@
         <state relative-caret-position="456">
           <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding>
+=======
+    <entry file="file://$PROJECT_DIR$/src/java/ir/ac/kntu/Main.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/ext/jfxrt.jar!/javafx/scene/shape/StrokeType.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/ir/ac/kntu/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> 883f9c75f9c5b431172587b21b79ba4d3adde1cd
             <element signature="e#474#475#0" expanded="true" />
             <element signature="e#498#499#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/java/ir/ac/kntu/DefaultMap">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -254,6 +321,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 883f9c75f9c5b431172587b21b79ba4d3adde1cd
   </component>
   <component name="masterDetails">
     <states>
@@ -293,6 +362,10 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+<<<<<<< HEAD
+=======
+          <last-edited>1.8</last-edited>
+>>>>>>> 883f9c75f9c5b431172587b21b79ba4d3adde1cd
           <splitter-proportions>
             <option name="proportions">
               <list>
